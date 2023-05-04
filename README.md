@@ -18,9 +18,10 @@ This game is a traditional 8 x 8 checkers game with similar rules to the origina
 
 <table>
     <tr>
-        <td><img src="visuals/adobe.gif" alt="AI vs Player I"></td>
-        <td><img src="visuals/test_1.gif" alt="AI vs Player II"></td>
+        <td><img src="visuals/gameplay_1.gif" alt="AI vs Player I"></td>
+        <td><img src="visuals/gameplay_2.gif" alt="AI vs Player II"></td>
     </tr>
+</table>
 
 
 
