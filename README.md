@@ -1,7 +1,7 @@
 # CHECKERS GAME
 ---
 
-## Description
+## Description
 ---
 
 This game is a traditional 8 x 8 checkers game with similar rules to the original game, except a few differences. Below is a summary of the game rules.
@@ -22,7 +22,6 @@ This game is a traditional 8 x 8 checkers game with similar rules to the origina
         <td><img src="visuals/gameplay_2.gif" alt="AI vs Player II"></td>
     </tr>
 </table>
-
 
 
 ## How to run the code
